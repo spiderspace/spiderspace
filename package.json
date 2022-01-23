@@ -1,7 +1,7 @@
 {
   "name": "spiderspace",
   "description": "spiderspace is web prototypes",
-  "license": "CC0-1.0",
+  "license": "Unlicense",
   "version": "0.0.1",
   "type": "module",
   "engines": {
